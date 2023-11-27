@@ -94,4 +94,7 @@ Vi har valgt en meget simpel brugergrænseflade. Man har valget mellem 2 knapper
 
 
 ## kilder til inspiration
+Hvordan vi fandt ud af at have flere frames
+[Stackoverflow](https://stackoverflow.com/questions/53197938/how-to-create-a-new-pages-using-classes-in-tkinter).
+
 
